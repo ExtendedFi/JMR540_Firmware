@@ -1,5 +1,10 @@
 For this project system_unlocked.img is being modified
 
+### Prerequisite
+- [ubireader](https://github.com/onekey-sec/ubi_reader)
+- mkfs.ubifs and ubinize (search, how to install it)
+
+
 ### Unpack
 
 unpack system_unlocked.img
