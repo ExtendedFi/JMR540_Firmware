@@ -38,6 +38,7 @@ vol_size=27807744
 vol_type=dynamic
 vol_name=rootfs" > config.ini
 ```
+if vol_size=27807744 try vol_size=26791936
 
 Repack to img
 ```bash
